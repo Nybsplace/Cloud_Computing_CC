@@ -1,0 +1,20 @@
+[
+    {
+        "match_id": 1,
+        "teams": [
+            "India",
+            "Australia"
+        ],
+        "winner": "India",
+        "score": "350/5 vs 314/10"
+    },
+    {
+        "match_id": 2,
+        "teams": [
+            "England",
+            "South Africa"
+        ],
+        "winner": "South Africa",
+        "score": "280/8 vs 283/4"
+    }
+]
