@@ -1,0 +1,5 @@
+access-token
+**/access-token
+.terraform/
+*.tfstate
+*.tfstate.backup
